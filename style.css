@@ -47,5 +47,5 @@ li  {
 }
 img {   
     height: 290px;
-    box-shadow: 10px 10px palevioletred;
+    box-shadow: 10px 10px rgba(216, 112, 147,1);
 }
